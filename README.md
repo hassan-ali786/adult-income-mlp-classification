@@ -60,7 +60,7 @@ adult-income-mlp-classiffication/
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/Hassan-Ali786/adult-income-deep-learning.git
+git clone https://github.com/hassan-ali786/adult-income-deep-learning.git
 cd adult-income-deep-learning
 ```
 
