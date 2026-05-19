@@ -71,8 +71,9 @@ adult-income-mlp-classiffication/
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/hassan-ali786/adult-income-deep-learning.git
-cd adult-income-deep-learning
+git clone https://github.com/hassan-ali786/adult-income-mlp-classification.git
+cd adult-income-mlp-classification
+
 ```
 
 2. Install dependencies:
