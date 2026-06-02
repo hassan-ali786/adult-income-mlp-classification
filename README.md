@@ -117,8 +117,6 @@ jupyter notebook notebooks/Adult_Income_Classification.ipynb
 **Hassan Ali**  
  Data Scientist & Deep Learning Practitioner  
 
-GitHub: https://github.com/hassan-ali786  
-
 ---
 
 ⭐ Feel free to fork this repository and explore further improvements!
