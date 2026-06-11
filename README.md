@@ -118,5 +118,3 @@ jupyter notebook notebooks/Adult_Income_Classification.ipynb
  Data Scientist & Deep Learning Practitioner  
 
 ---
-
-⭐ Feel free to fork this repository and explore further improvements!
