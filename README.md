@@ -115,6 +115,10 @@ jupyter notebook notebooks/Adult_Income_Classification.ipynb
 ## Author
 
 **Hassan Ali**  
- Data Scientist & Deep Learning Practitioner  
+Data Scientist & Deep Learning Practitioner  
+ 
+GitHub: https://github.com/hassan-ali786
+
+LinkedIn: https://linkedin.com/in/hassan-ali-datascientist
 
 ---
